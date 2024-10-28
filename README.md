@@ -2,7 +2,7 @@
 
 Resources and tools for standardizing images of insect wings (cropping and persepctive correction). Under development. Contact ostwald.madeleine@gmail.com with any questions.
 
-# Repository Directory
+## Repository Directory
 ### Imaging Cards
 Contains files for printable templates used as backdrops for wing imaging ("imaging cards"). These cards include ArUco markers, which are unique identifying shapes that are compatible with computer vision applications (fully supported in OpenCV). Framing wings in these markers allows us to automate the cropping and perspective correction process. These markers can also be used as a size reference for measurement, eliminating the need to include a ruler in these images.
 We have included three image card sizes, for imaging bees (or any insects) of various sizes. For most bees, the "3mm_imaging_card" size should be appropriate, i.e., the entire wing should fit within the bounding rectangle. For the largest bees (e.g., queen *Bombus*, many *Xylocopa*), the "3mm_imaging_card_wide" version may be necessary to fit the entire wing into the bounding rectangle. For the smallest bees, the "1mm_imaging_card" may be desirable so that images can be taken at a higher zoom magnification.
