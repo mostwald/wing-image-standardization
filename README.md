@@ -14,11 +14,11 @@ The imaging card templates are provided as PDFs that can be printed on 8.5x11" p
 
 Each print-out contains multiple stacked imaging cards that need to be individually cut out according to the directions below. Cut out a region that includes all four markers, with the measurement and "Wing" on the bottom. This serves as a reminder of which side to place the wing for imaging. The card can be cut out in a rectangle of any size, as long as all four markers are included, and the right-hand "wing" side is cut as close to the marker boundary as possible (without actuling cutting into the markers). This will allow you to place the bee flush with the edge of the card so that as much of the wing is imaged as possible.
 
-<img src="readme_figures/printout_instructions.jpg" alt="printout instructions" width="300" />
+<img src="readme_figures/printout_instructions.jpg" alt="printout instructions" width="600" />
 
 When imaging, align the bee with the right hand side of the marker, such that right wings will be imaged with the bee's head oriented toward the bottom of the card, and left wings will be oriented with the head facing up (see image below). Be sure to position the wing so that it fits entirely within the cropping region indicated in orange below. This is the region that will be cropped with the cropping script.
 
-<img src="readme_figures/imaging_instructions.jpg" alt="imaging instructions" width="300" />
+<img src="readme_figures/imaging_instructions.jpg" alt="imaging instructions" width="600" />
 
 ### Image Cropping
 Contains materials for cropping wing images, including an annotated JupyterNotebook file with the cropping script, the rendered HTML file, the rendered .MD file, and the outputted cropped test image. 
