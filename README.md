@@ -1,6 +1,8 @@
 # Wing Image Standardization
 
-Resources and tools for standardizing images of insect wings (cropping and persepctive correction). Under development. Contact ostwald.madeleine@gmail.com with any questions.
+Resources and tools for standardizing images of insect wings (cropping and persepctive correction). Under development. Contact mostwald@ucsb.edu with any questions.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14004400.svg)](https://doi.org/10.5281/zenodo.14004400)
 
 ## Repository Directory
 ### Imaging Cards
